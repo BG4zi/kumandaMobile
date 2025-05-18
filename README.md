@@ -10,7 +10,7 @@ A lightweight crossplatform(for now android only) mobile app to communicate with
 ## Quick Start
 
 ```bash
-$git clone ....
+$git clone https://github.com/BG4zi/kumandaMobile.git
 $cd kumandaMobile
 $npm i
 $npx expo prebuild 
